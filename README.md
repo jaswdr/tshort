@@ -1,6 +1,10 @@
 # tshort 👕
 > Simple and descomplicated link shorter that can be deployed anywhere, written in 10 lines of code or less.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/204f735b-8968-4432-a17c-e7d0c3435b69/deploy-status)](https://app.netlify.com/sites/tshort/deploys)
+
+[Demo](https://tshort.netlify.app)
+
 ### Getting Started
 
 ```
