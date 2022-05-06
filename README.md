@@ -1,5 +1,5 @@
 # tshort 👕
-> Simple and uncomplicated link shorter that can be deployed anywhere
+> Simple and descomplicated link shorter that can be deployed anywhere, written in 10 lines of code or less.
 
 ### Getting Started
 
