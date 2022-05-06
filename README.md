@@ -3,6 +3,8 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/204f735b-8968-4432-a17c-e7d0c3435b69/deploy-status)](https://app.netlify.com/sites/tshort/deploys)
 
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https%3A%2F%2Fgithub.com%2Fjaswdr%2Ftshort)
+
 [Demo](https://tshort.netlify.app)
 
 ### Getting Started
